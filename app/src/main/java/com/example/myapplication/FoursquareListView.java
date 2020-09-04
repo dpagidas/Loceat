@@ -58,7 +58,7 @@ public class FoursquareListView extends AppCompatActivity {
         /**
          *  Here I call the Foursquare Api with specific library Volley. Also in this request i fill hash map and list with category restaurants and name restaurants
          */
-        String url =  "https://api.foursquare.com/v2/venues/search?client_id=XTXYWUGYAU1DZQ5LLTTH3U22LYCQZE5WLIT002STKNOGKQHJ&client_secret=33HM0JQ0ZKGGTWG1BXDHI1Q2M2152A00PQHZRHUXK1B0RNTD&v=20180323&ll="+lantitude+","+longtitude+"&limit=100&categoryId=4d4b7105d754a06374d81259";
+        String url =  "Place your Forsquare Api link here "; // Foursquare Api link
         RequestQueue requestQueue;
                             requestQueue = Volley.newRequestQueue(this);
                             StringRequest

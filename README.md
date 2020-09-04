@@ -7,7 +7,8 @@ Loceat lets users list local restaurants based on their current position or a de
 1. Clone or download github project
 2. Extract it
 3. Open it in Android Studio. File >> Open
-4. Build >> Build Apk(s)
+4. In order to run this application you need to replace in FoursquareListView Class your Foursquare Api link and in res -> values -> google_maps_api.xml your Google Maps Api key.
+5. Build >> Build Apk(s)
 
 
 ### Development
